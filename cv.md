@@ -26,3 +26,9 @@ I'm just starting to learn markup and stylesheet languages:
 | :----:         |    :----:      |
 | Russian        | Native         |
 | English        | A2             |
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
