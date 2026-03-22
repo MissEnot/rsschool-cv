@@ -21,6 +21,7 @@ I'm just starting to learn markup and stylesheet languages:
 - CSS
 
 ### **Languages✏️**
+
 | *Language*     |*Language level*|
 | :----:         |    :----:      |
 | Russian        | Native         |
