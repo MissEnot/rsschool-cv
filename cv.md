@@ -14,3 +14,14 @@ Hello everyone! My name is Ekaterina. I'm just starting to learn the basics of H
 - Responsible  
 - Friendly  
 - Always ready to learn something new
+
+### **My skills✏️**
+I'm just starting to learn markup and stylesheet languages:
+- HTML  
+- CSS
+
+### **Languages✏️**
+| *Language*     |*Language level*|
+| :----:         |    :----:      |
+| Russian        | Native         |
+| English        | A2             |
